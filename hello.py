@@ -5,6 +5,5 @@ print("Hello," , name + "!, Welcome To Python")
 #simple addition example
 a=int(input("Enter First Number: "))
 b=int(input("Enter Second Number: "))
-c=a+b
-print("The Sum of your Nos is ", c)
+print("The Sum of your Nos is ", a+b)
 
